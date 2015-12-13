@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sdqsdqsdfsdqfdsfsdfhibdfnosqdqDFUnqfeopdfsujhbfh,pkg,h,fg,gf,g,fb,f,fk,fk,k,f,vfkod,fg,dok,k,gofd,godf,gfdog,fd,g"
+            android:gravity="top"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
